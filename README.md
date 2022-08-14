@@ -14,7 +14,7 @@ The model (KNN) was evaluated on its accuracy which reached 84.45% accuracy on t
 </p>
 
 ## Predictions
-Below is 16 images pulled randomly from the test set, each image is labeled with the its true finding as well as the model prediction:
+Below is 16 images pulled randomly from the data test set, each image is labeled with the its true finding as well as the model prediction:
 <p align="center">
   <img src="https://github.com/mkldhz/Pneumonia-Detection-from-Chest-X-ray-Using-KNN/blob/main/Screenshots/predictions.jpg?raw=true" />
 </p>
